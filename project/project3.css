@@ -1,0 +1,10 @@
+body,h3{
+    color: skyblue;
+}
+
+body{
+    background-image: url("ichigo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
